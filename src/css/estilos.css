@@ -451,3 +451,9 @@ body{
     cursor: pointer;
     background-color: transparent;
 }
+
+.administra-perfiles:hover{
+    color: white;
+    cursor: pointer;
+    border: white 1px solid;
+}
